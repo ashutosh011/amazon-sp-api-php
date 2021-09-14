@@ -122,7 +122,7 @@ Feature Requests & Pull Requests are very welcome!
 
 # Notes
 
-If you are looking for a complete Repricing & FBA-Reimbursement solution, you might want to consider giving [Ashutosh.com](https://www.Ashutosh.com) a shot.
+If you are looking for a complete Repricing & FBA-Reimbursement solution, you might want to consider giving [amazewish.com](https://amazewish.com) a shot.
 
 # Thanks
 
