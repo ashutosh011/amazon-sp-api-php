@@ -16,7 +16,8 @@
             "homepage": "https://www.amazewish.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "version":"1.0.0.0",
     "require": {
         "php": ">=7.3",
